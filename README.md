@@ -1,2 +1,2 @@
-# pruebaKonecta
-Prueba de Conecta
+# Pruebas React
+Prueba de React
